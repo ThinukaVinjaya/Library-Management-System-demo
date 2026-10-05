@@ -24,7 +24,7 @@ public class Library {
     }
 
     // ==========================================
-    // Book Management -- (BookService walata dannaona ewa)
+    // Book Management -- (BookService walata dannaona ewa) -- theekshana dasan 
     // ==========================================
 
     /*
@@ -131,7 +131,7 @@ public class Library {
     }
 
     // ==========================================
-    // Member Management -- (MemberService walata dannaona ewa)
+    // Member Management -- (MemberService walata dannaona ewa) -- aloka dulmi
     // ==========================================
 
     /*
@@ -219,7 +219,7 @@ public class Library {
     }
 
     // ==========================================
-    // Borrow & Return Management -- (BorrowService walata dannaona ewa)
+    // Borrow & Return Management -- (BorrowService walata dannaona ewa) -- samindi tharushi
     // ==========================================
 
     /*
@@ -323,7 +323,7 @@ public class Library {
     }
 
     // ==========================================
-    // Dashboard & Statistics -- (DashboardService walata dannaona ewa)
+    // Dashboard & Statistics -- (DashboardService walata dannaona ewa) -- shehara
     // ==========================================
 
     public int getTotalBooksCount() {
@@ -351,7 +351,7 @@ public class Library {
     }
 
     // ==========================================
-    // Seed Sample Data 
+    // Seed Sample Data    --- thinuka
     // ==========================================
 
     private void seedSampleData() {
